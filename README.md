@@ -1,10 +1,10 @@
-# sample2022
+# sample2022 update
 
 - apple
 - orange
 - banana
 
-## samples
+## samples updata
 1. top
 1. top2
 2. second
