@@ -4,7 +4,7 @@
 - orange
 - banana
 
-## samples
+## sample
 1. top
 1. top2
 2. second
